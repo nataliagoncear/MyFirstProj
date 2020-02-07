@@ -8,10 +8,10 @@ namespace IntroToCharp
     {
         static void Main()
         {
-            /*String FirstName = "Goncear";
+            String FirstName = "Goncear";
             String LastName = "Natalia";
             System.Console.Write("My name is " + LastName + " "+ FirstName);
-            System.Console.WriteLine("\n1\n" + "101\n" + "1001\n");*/
+            //System.Console.WriteLine("\n1\n" + "101\n" + "1001\n");
 
             //DateTime localDate = DateTime.Now;
             //System.Console.WriteLine("Data and Time for now is " + localDate);
@@ -30,7 +30,7 @@ namespace IntroToCharp
             //System.Console.WriteLine("On " + _date.ToString("dd/MM/yyyy") + " I will be " + _age +  " years old");
 
 
-            int m = 0;
+            /*int m = 0;
 
             while (m <= 100)
             {
@@ -40,9 +40,10 @@ namespace IntroToCharp
                 }
                 else
                 {                   
-                    Console.WriteLine(-m); }
+                    Console.WriteLine(-m); 
+                    }
                 m++;
-            }
+            }*/
 
         }
     }
